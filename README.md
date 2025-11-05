@@ -1,6 +1,4 @@
-# test
-base test network
-
+test
 '''
 1ST COMMIT
 '''
